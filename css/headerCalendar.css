@@ -1,0 +1,38 @@
+.headerCalendar {
+    background: #e6be3b;
+    color: #1f87c4;
+    font-family: Droid Sans;
+    font-size: 20px;
+    line-height: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.2);
+    width:100%;
+    box-sizing:border-box;
+}
+
+.logo {
+    border: 1px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    float: left;
+
+}
+
+.hCal{
+    background-color: #990000;
+    color: #CCCCCC;
+    font-weight: bolder;
+}
+
+body {
+    background-color: #89d89c;
+}
+
+a{
+    background-color: purple;
+    color: #CCCCCC;
+    font-weight: bolder;
+}

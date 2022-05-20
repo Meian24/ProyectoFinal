@@ -1,0 +1,89 @@
+.header {
+    background: #e6be3b;
+    color: #1f87c4;
+    font-family: Droid Sans;
+    font-size: 20px;
+    line-height: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.2);
+    width:100%;
+    box-sizing:border-box;
+}
+
+.logo {
+    border: 1px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    float: left;
+
+}
+
+body {
+    background-color: #89d89c;
+}
+
+a{
+    background-color: purple;
+    color: #CCCCCC;
+    font-weight: bolder;
+}
+
+.form{
+     
+    width:500px;
+    margin:auto;
+    list-style:none;
+    padding-bottom:5px;
+    width:180px;
+    float:center;
+    text-align:left;
+    font-weight:bold;
+    font-size:16px;
+    border:3px solid #990000;
+
+}
+
+#frm {
+        font-weight:bold;
+        font-size:24px;
+}
+  
+.boton {
+        padding:3px;
+        color:#FFFFFF;
+        background-color:#990000;
+        border:1px solid #000000;
+}
+
+.tabla {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+
+
+
